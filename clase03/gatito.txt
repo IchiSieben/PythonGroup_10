@@ -1,0 +1,76 @@
+ 
+                                                                                                    
+                                                                                          .*HH.     
+                                                                                         *H#@@H.    
+                                                                                        *#@@@@#.    
+                                                                                        #@@@@@*     
+                                           .                                           .#@##H,      
+                                          ,,                                           /#@##,       
+                                         ./,                                           *@##H.       
+                                         //,                                           /#HJ*.       
+                        //,             ,/,.                                           /#HJJ,       
+                       ///*,           .*,,.                                           ,@#HH/       
+                      ./,,/*.          */,,.                                           .@@@@J       
+                      ,,,,,/*.        ,*/,,.                                           .#@@@H       
+                      ,,,,,,/*        *J/,,.                                            H@@@#.      
+                      ,,,,,,/*/      /JJ*/,.                                            J@@@#.      
+                      ,,,//,//**,   ,JJJJJ/,                                            *@##H,      
+                      ,,///,//*J**//JJJJJJJJ,.                                          /##HJ,      
+                      ,,////,/*********J/*JJ*//.                                        /#HJ*,      
+                      ,,//**,,////****/J/,**JJ//.                                       /#H**,      
+                      ,,/***/,,///*//*/,J//JJJ*/H.                                      /@HJ*,      
+                      ,///JJ/,,,////*J**///J***JJ.                                      *@#HJ,      
+                       ///**,,,,,/////J##J,**/*JH*                                      H@@#H.      
+                       ///**/,,,,////JJHH#/,*//*HJ,                                     #@@@H       
+                      ./***J/,,,////J*/JHJ#*,/***J/                                    .@@@@J       
+                      ./****,,,////**J*JHJ#H**JJJJJ,                                   /@@@@*       
+                      .//***/,////*J//***J*JHJHHHHHJ                                   H@###/       
+                      .,,/***//*//HJ**JJ///*JJJJ##HJ.                                 .##HHH.       
+                       ,,/*******JJ*JJJ*JJJJ*/J**HHJ..                                *HHHJ/        
+                       .//*****J*H*//***J***J*JJ*/**..                               .##HH*.        
+                        //****J**H/,/**J*/,,,***//**.,                               J@##H/         
+                        ,/****J*HJ/,JJ*/,,,,,,/*//*J,.                              ,####H,         
+                        .//***JHH//JH*J/,,,,,/,,//,,,                               J####J.         
+                        ,///**JH*//HJJ/,,,,,,/,,,,,.                               /#####*          
+                        ,////**JJHH*,,,,.,,,,,.....                               ,#####H.          
+                        ,/////**JJ*/,/,...........                                J##H##*           
+                        ,,//*///****//,,........                                 J#HHHHJ            
+                        ,////////**J**//,,/,.                                   *H#HJHJ,            
+                        ,/////////////,,,,,,                                   /###HHJ,             
+                        /////////////////,//                                  ,HHH#HJ*.             
+                        ////////////////////      ..,,,..                    ,HHHH#HJ/              
+                       ,**///**////////,//*/*J*JJHJJJ**JJJJJ*,              ,HHHHH##*               
+                       **////***////,,,,//*/*HJJHJJJJHHJHHHHHHJ/.          *####HHH*                
+                      .**////******/,,,//**/*HHJHHHHHHHHHH#JJJJJJ*,    .,/H####HHH*                 
+                      ,**////*//***/////*J**/JHHH##H#HHH#HHJHHJJJJJJ*J#########HJ*.                 
+                      //*///////*JJ*****JJ****JHH#HHHJJHJJJJHJJJJJJJJ*JH####H##H*.                  
+                      /,//****///JHHJHJJHJJJ**JJHHHJJHHHHHHJJJJ*JJJJJJJHHH#HHHH*.                   
+                     .//**/****//*JHHJJJJJJJ*JJHHHHHJHHHHHHJHHHJJHHJJHHHJHHHHH*.                    
+                     /**JJ*/*************JJ*JH*JHJHHHJJHHJHJJHHJJJHHJJJJ*JHJ*,                      
+                    .*//*JJ*//**JJ*//*//****JH*/HHJHHJJJJJJJ*JHJJJHJ**JJJ*J,                        
+                    /*//*JHJ*//*JJJ**J****JJHJ//JHJJJHJHHHJJJJJJ**J**JJJHJJ/                        
+                    **///*HHJ****HHHJJHJJJHHJ*//*HHJJJJJJJHHJJJ******JHHHJH*,                       
+                   /J*////*JHHJJHHHJJHHHH##J**//*JHJHHHJJJJJHJJJHJ***JHJHHHJ*                       
+                   /****///*JH###HJ**H####J******JHHHHHJ***JJHJJHH**JJJJJJHJ*                       
+                   /****/////*JH##J/*H##HJ*****/**JJJHHHJ***JJJJJJJJJJ**JHJJ*                       
+                   /****//////**JH*/*JJJ*****//***JJJHHHJ***JJHJJJJJJH*JJHHJ/                       
+                  //****///**/*****//******///**//*JJJHH*/**JJJJ*JJJJHJJHH#J/                       
+                 .*******//*********/*****///*J*//*JJJHJ//**JHJ*JJJJJHJJHHHJJ.                      
+                .*////*/////*********/*******J*///**JJHJ**J*JJ***JJJJJJ*HHHHJ.                      
+                //J**////*//********/**JJJJJJ*/,//**JJHJ**JJ*******JJJJ*JJHJ*.                      
+               ,J***//*//*J**/******JJJJJJHJJ*/////*HJHJ**JJ*/******JJ**JHJJ*.                      
+               ,//**//****JJJ*******JJJJHHHH****JJ*JJJJ*//********/*JJ*JH#H**,                      
+              ,,,/*JJJJHHHHH#HHHJHJ*JHHHHHHHHHHHJHJ*/*J**//*J**JJ****JJHH#H*JJ.                     
+             ./****JH***JH#HHHHHHHJ*HJJJJJHHHHHHHJ*/*/*J***JJ*JJJ***JJHHH#HJJH,.                    
+             /J*//*#J**JJJJH#HHHHHHJHJJJHHHHHHHJHHJHJ**JJ*JJJJJHJJJJJH#H#HJHHJ.                     
+             */,//HH**J*HJJ*H##HHHJJHHH##JJHHHJJJJJJHJJHJJHHJJHHHJJ***///,,,..                      
+             /,/*JH**JJJJ**J*J@HHHJHHH##JJJJJHJJJJH**HHHHHHHJJJ*/,,.....                            
+             //,*J***J*J**JJJ*H#HHJHH#HJJ*JJJHHJJJH**JJJ*///,,.........                             
+             ,//JJ/*/*////****JHHJ###HJJ*JJ**JJJJJHJ*,..     .....                                  
+             ,**J*/*//,//*******HH##HJJJJJHJJH*JJHHJ//,...                                          
+             .,/*/**//,*/***J***J###H*J**JJ*JH****//,...                                            
+                ..,/,,/////*JJ*******///*J*JJJ*//,,...                                              
+                     ./****JJJ**///*J****J**HJ*,,,......                                            
+                      ,**JHJHHJ*,...,/*/***//,......                                                
+                       ...,..,..                                                                    
+                                                                                                   

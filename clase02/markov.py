@@ -1,3 +1,5 @@
+import random
+
 archivo = open('quijote.txt')
 contenido = archivo.read()
 archivo.close()
@@ -19,4 +21,12 @@ for posicion, palabra in enumerate(contenido[:-1]):
     palabras[palabra].append(contenido[posicion + 1])
 
 
-print(palabras)
+palabra_inicial = input('Escribe una palabra: ')
+
+oracion = [palabra_inicial]
+for _ in range(15):
+    ultima_palabra = oracion[-1]
+    siguiente_palabra = random.choice(palabras[ultima_palabra])
+    oracion.append(siguiente_palabra)
+
+print(' '.join(oracion))
