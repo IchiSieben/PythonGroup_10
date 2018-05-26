@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Saludo</title>
+</head>
+<body>
+    <form action="" method="post">
+        Tu nombre: <input type="text" name="nombre">
+        <input type="submit" value="Enviar">
+    </form>
+
+    {% if nombre %}
+        <h1>Hola {{ nombre }}</h1>
+        <h1>Tienes {{ edad }} años?</h1>
+        {% if edad == 18 %}
+            <p>Sí (tienes 18 años)</p>
+        {% else %}
+            <p>No (NO tienes 18 años)</p>
+        {% endif %}
+        <p>
+            Tus hobbies son:
+            <ul>
+                {% for hobbie in hobbies %}
+                    <li>{{ hobbie }}</li>
+                {% endfor %}
+            </ul>
+        </p>
+    {% endif %}
+</body>
+</html>
