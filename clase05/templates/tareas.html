@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lista de tareas</h1>
+    <form action="" method="post">
+        Tarea: <input type="text" name="tarea">
+        <input type="submit">
+    </form>
+
+    <h2>Tareas:</h2>
+    <ul>
+        {% for tarea in tareas %}
+            <li>{{ tarea }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
