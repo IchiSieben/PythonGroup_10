@@ -12,7 +12,7 @@ classroom repository — he did not write the exercise code himself. The name
 `PythonGroup_10` reflects the student group number assigned in that cohort,
 not a project Yoichi initiated or a multi-student group collaboration.
 
-## Running it
+### Running it
 
 Unmaintained since 2018 and not verified to run today: `requirements.txt`
 pins Pillow 5.1.0 and other packages from that era, `clase05` depends on a
@@ -20,7 +20,7 @@ bundled Windows-only `tesseract.exe` and `lept173.dll`, and no environment
 setup was tested for this note. Treat the scripts as read-only reference
 material, not as a runnable app.
 
-## Authorship / License
+### Authorship / License
 
 No LICENSE file is added. This repository is training material authored by
 the instructor (Moisés Cachay) for a course run through Area51 Training
